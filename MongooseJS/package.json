@@ -1,0 +1,15 @@
+{
+  "name": "mongoosejs",
+  "version": "1.0.0",
+  "description": "crud app",
+  "main": "book.model.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.0"
+  }
+}
